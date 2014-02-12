@@ -1,2 +1,2 @@
--dialog-frament-android
-=======================
+sample-dialog-frament-android
+=============================
