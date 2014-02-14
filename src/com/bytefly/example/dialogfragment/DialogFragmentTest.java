@@ -7,7 +7,6 @@ import android.support.v4.app.FragmentManager;
 import android.widget.Toast;
 
 import com.bytefly.example.dialogfragment.EditNameDialog.EditNameDialogListener;
-import com.bytefly.example.R;
 
 public class DialogFragmentTest extends FragmentActivity implements EditNameDialogListener {
 

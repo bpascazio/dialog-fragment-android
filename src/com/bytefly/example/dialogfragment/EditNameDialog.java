@@ -1,8 +1,6 @@
 
 package com.bytefly.example.dialogfragment;
 
-import com.bytefly.example.R;
-
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
 import android.view.KeyEvent;
