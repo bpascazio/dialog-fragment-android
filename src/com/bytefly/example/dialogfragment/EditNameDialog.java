@@ -1,5 +1,5 @@
 
-package com.bytefly.example;
+package com.bytefly.example.dialogfragment;
 
 import com.bytefly.example.R;
 

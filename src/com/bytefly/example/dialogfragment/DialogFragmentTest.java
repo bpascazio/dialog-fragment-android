@@ -1,15 +1,15 @@
 
-package com.bytefly.example;
+package com.bytefly.example.dialogfragment;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.widget.Toast;
 
-import com.bytefly.example.EditNameDialog.EditNameDialogListener;
+import com.bytefly.example.dialogfragment.EditNameDialog.EditNameDialogListener;
 import com.bytefly.example.R;
 
-public class FragmentDialogDemo extends FragmentActivity implements EditNameDialogListener {
+public class DialogFragmentTest extends FragmentActivity implements EditNameDialogListener {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
