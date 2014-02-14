@@ -1,5 +1,7 @@
 
-package com.example;
+package com.bytefly.example;
+
+import com.bytefly.example.R;
 
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
